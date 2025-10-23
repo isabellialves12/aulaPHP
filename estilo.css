@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin: 0;
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    padding: 30px;
+   
+}
+
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+
+    background-color:royalblue;
+    padding: 10px;
+    color: white;
+}
+
+.menu a:hover
+{
+    text-decoration-color:white;
+}
+
+.conteudo
+{
+    width: 700px;
+    border: 1px solid royalblue;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 10px 10px 20px blue;
+}
